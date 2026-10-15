@@ -28,9 +28,13 @@
 
 ### 🏆 Featured Security Research & Projects
 
-*   🐧 **[Arch Linux Installation Guide (2026)](https://github.com/shubhamd211/arch-linux-install-guide-2026):** A modern, reproducible setup guide for UEFI/GPT systems using systemd-boot and PipeWire.
-*   🦠 **[Ransomware Incident Response (WRUI)](https://github.com/shubhamd211/ransomware-incident-response-wrui):** Deep forensic analysis, incident response lifecycle, and partial file recovery methodology for STOP/Djvu ransomware.
-*   🚩 **[CTF & Pentesting Portfolio](https://github.com/shubhamd211/ctf-penetration-testing-portfolio):** Documentation of security research, exploitation techniques, and methodologies (TryHackMe King of the Hill Winner).
+*   🐧 **[Arch Linux Installation Guide (2026)](https://github.com/shubhamd211/arch-linux-install-guide-2026):** A modern, reproducible setup guide for UEFI/GPT systems using systemd-boot and Pi[...]
+*   🦠 **[Ransomware Incident Response (WRUI)](https://github.com/shubhamd211/ransomware-incident-response-wrui):** Deep forensic analysis, incident response lifecycle, and partial file recovery[...]
+*   🚩 **[CTF & Pentesting Portfolio](https://github.com/shubhamd211/ctf-penetration-testing-portfolio):** Documentation of security research, exploitation techniques, and methodologies (TryHack[...]
+
+
+### 🛡️ Featured Case Studies
+* [Enterprise Cloud Incident Response & Threat Containment](INCIDENT_RESPONSE.md) – Sanitized post-mortem covering Linux/Azure perimeter defense, KQL threat detection, and zero-trust hardening.
 
 ---
 
